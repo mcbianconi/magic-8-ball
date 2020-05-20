@@ -7,7 +7,7 @@ Essa é a terceira parte do curso
 
 Se quiser veja as outras partes:
 - [Parte 1](https://github.com/mcbianconi/mi-card).
-- [Parte 1](https://github.com/mcbianconi/dicee-app).
+- [Parte 2](https://github.com/mcbianconi/dicee).
 
 ## O App
 Nesse módulo, para firmar os conhecimentos de widgest Stateless e Stateful, será feita uma
